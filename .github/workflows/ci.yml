@@ -1,4 +1,5 @@
 name: Ci MY-PCB-Mill
+on:
   push:
     branches:
       - master 
