@@ -1,11 +1,11 @@
-site_name: MY-MCB-Mill
+site_name: MY-PCB-Mill
 
-site_url: "https://my-machines.pt/MY-MCB-Mill/"
+site_url: "https://my-machines.pt/MY-PCB-Mill/"
 #site_autor: "Edgar Mata"
 site_description: "Centro de conhecimento Gadget Plus.LDA"
 
-repo_name: "MY-MCB-Mill"
-repo_url: "https://github.com/EdgarMata/MY-MCB-Mill"
+repo_name: "MY-PCB-Mill"
+repo_url: "https://github.com/EdgarMata/MY-PCB-Mill"
 
 copyright: |
   &copy; 2024 <a href="https://my-machines.pt/" target="_blank" rel="noopener">Edgar Mata, LDA</a>
